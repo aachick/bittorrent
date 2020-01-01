@@ -6,7 +6,7 @@
 
 * ✅ Encode/decode bencoded strings
 * ✅ Implement bittorrent protocol messages
-* ❌ Implement tracker class
-* ❌ Implement peer and peer manager classes
-* ❌ Implement piece handling classes
+* ✅ Implement tracker module
+* ❌ Implement peer and peer manager modules
+* ❌ Implement piece handling modules
 * ✅ Implement custom exceptions
